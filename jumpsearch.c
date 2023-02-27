@@ -1,4 +1,4 @@
-//Jump Search In C
+//Jump Search in C
 
 #include <stdio.h>
 #include <math.h>
